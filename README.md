@@ -3,11 +3,11 @@ https://sa-job-dashboard-reevwxaodep25sqzdwxikp.streamlit.app/
 
 A professional end-to-end analytics project that explores hiring trends, salaries, locations, and in-demand skills across the South African job market.
 
-## 🔗 Live Demo
+## Live Demo
 
-[Open Dashboard]([(https://sa-job-dashboard-reevwxaodep25sqzdwxikp.streamlit.app/))
+[Open Dashboard](https://sa-job-dashboard-reevwxaodep25sqzdwxikp.streamlit.app/)
 
-## 📌 Project Overview
+## Project Overview
 
 This project was built to simulate a real business intelligence solution used by consulting firms, recruiters, and analysts to understand labour market demand.
 
@@ -20,7 +20,7 @@ The dashboard provides insights into:
 - Salary comparisons by city
 - Recruitment trends
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -29,7 +29,7 @@ The dashboard provides insights into:
 - CSV Data Pipelines
 - Machine Learning (Salary Prediction Prototype)
 
-## 📊 Key Features
+## Key Features
 
 - Executive KPI dashboard
 - Interactive charts
@@ -37,7 +37,7 @@ The dashboard provides insights into:
 - Clean recruiter-friendly interface
 - Historical salary prediction model
 
-## 📂 Files Included
+## Files Included
 
 - `app.py` → Main dashboard application  
 - `jobs.csv` → Dataset  
@@ -45,7 +45,7 @@ The dashboard provides insights into:
 - `ml_model.py` → Salary prediction logic  
 - `requirements.txt` → Dependencies  
 
-## 🚀 Business Value
+## Business Value
 
 This project demonstrates the ability to:
 
@@ -55,10 +55,10 @@ This project demonstrates the ability to:
 - Present insights visually
 - Apply machine learning concepts
 
-## 👤 Author
+## Author
 
 Tinyiko Homu
 
-## 📬 Contact
+## Contact
 
 Open to graduate opportunities in Data Analytics, Data Engineering, Consulting Analytics, and Cloud Technology.
